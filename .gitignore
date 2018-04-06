@@ -4,3 +4,10 @@
 
 # Module directory
 .terraform/
+
+# .vscode files
+.vscode/*
+
+# Vagrant files
+.vagrant
+.vagrant/*
